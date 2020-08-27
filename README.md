@@ -1,5 +1,12 @@
 # Typescript
 
+#### Prereqs (for Ubuntu based distros)
+```bash
+$ sudo apt update
+$ sudo apt install npm
+$ sudo apt install nodejs
+$ sudo npm install -g typesrcipt
+```
 #### Compile and Run 
 
 ```bash
