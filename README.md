@@ -5,7 +5,7 @@
 $ sudo apt update
 $ sudo apt install npm
 $ sudo apt install nodejs
-$ sudo npm install -g typesrcipt
+$ sudo npm install -g typescript
 ```
 #### Compile and Run 
 
